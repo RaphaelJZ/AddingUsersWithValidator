@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="AddingUsersWithValidator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CyberCare_Test.war">
+      <element id="artifact" artifact-name="AddingUsersWithValidator:war exploded" />
+    </root>
+  </artifact>
+</component>
